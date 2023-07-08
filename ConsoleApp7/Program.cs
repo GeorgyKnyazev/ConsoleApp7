@@ -25,6 +25,7 @@ namespace ConsoleApp7
             {
                 Console.WriteLine("Такого слова нет");
             }
+
             Console.ReadKey();
         }
     }
